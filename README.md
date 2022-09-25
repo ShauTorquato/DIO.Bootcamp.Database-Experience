@@ -28,6 +28,28 @@ Conteúdo de Repositório:
                       + Os mecânicos possuem código, nome, endereço e especialidade
                       + Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
              
+         c - Primeiro projeto lógico de banco de dados
+                   Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. 
+                   Fique atento as definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado. 
+                   Perceba que dentro desta modelagem haverá relacionamentos presentes no modelo EER. 
+                   Sendo assim, consulte como proceder para estes casos. 
+                   Além disso, aplique o mapeamento de modelos aos refinamentos propostos no módulo de modelagem conceitual.
+                   Assim como demonstrado durante o desafio, realize a criação do Script SQL para criação do esquema do banco de dados. 
+                   Posteriormente, realize a persistência de dados para realização de testes. 
+                   Especifique ainda queries mais complexas dos que apresentadas durante a explicação do desafio. Sendo assim, 
+                   crie queries SQL com as cláusulas abaixo:
+
+                       + Recuperações simples com SELECT Statement
+                       + Filtros com WHERE Statement
+                       + Crie expressões para gerar atributos derivados
+                       + Defina ordenações dos dados com ORDER BY
+                       + Condições de filtros aos grupos – HAVING Statement
+                       + Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados
+                       + Não há um mínimo de queries a serem realizadas;
+                       + Os tópicos supracitados devem estar presentes nas queries;
+                       + Elabore perguntas que podem ser respondidas pelas consultas;
+                       + As cláusulas podem estar presentes em mais de uma query;
+                       
          d - Construção de Projeto Lógico de Banco de Dados do Zero (
                    Para este cenário você irá utilizar seu esquema conceitual, criado no desafio do módulo de modelagem de BD com modelo ER, 
                    para criar o esquema lógico para o contexto de uma oficina. Neste desafio, você definirá todas as etapas. 
@@ -44,12 +66,14 @@ Conteúdo de Repositório:
                        + Defina ordenações dos dados com ORDER BY;
                        + Condições de filtros aos grupos – HAVING Statement;
                        + Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
-                       + Diretrizes
                        + Não há um mínimo de queries a serem realizadas;
                        + Os tópicos supracitados devem estar presentes nas queries;
                        + Elabore perguntas que podem ser respondidas pelas consultas
                        + As cláusulas podem estar presentes em mais de uma query
 
+      1.2 - Bancos de Dados SQL e NoSQL na Engenharia de Dados
+                  Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) 
+                  no contexto de um Engenheiro de Dados. Para isso, anote todos os conceitos, definições e insights que julgar relevantes. 
 
 
 
